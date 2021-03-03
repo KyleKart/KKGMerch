@@ -39,6 +39,50 @@ html {
     margin-right: 5px;
 }
 
+.chat1 {
+    color: #000000;
+    font-size: 1.5rem;
+    font-weight: 700;
+    height: inherit;
+    line-height: inherit;
+    padding: 0 1.25rem;
+padding-bottom: 30px;
+    text-decoration: none;
+    float: right;
+    background-color:  #00FF00;
+    border-radius: 15px;
+    margin-right: 5px;
+}
+
+.chat2 {
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    font-weight: 700;
+    height: inherit;
+    line-height: inherit;
+    padding: 0 1.5rem;
+  padding-bottom: 30px;
+    text-decoration: none;
+    float: left;
+    background-color: 	#0000FF;
+    border-radius: 15px;
+    margin-right: 5px;
+}
+
+.chat3 {
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    font-weight: 700;
+    height: inherit;
+    line-height: inherit;
+    padding: 0 1.25rem;
+    text-decoration: none;
+  text-align: center;
+    background-color:  #00FF00;
+    border-radius: 15px;
+    margin-right: 5px;
+}
+
 .title {
     align-content: center;
     margin-left: 25%;
