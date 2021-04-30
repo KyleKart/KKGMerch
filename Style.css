@@ -28,6 +28,8 @@ html {
 .darker {
   border-color: #ccc;
   background-color: #ddd;
+        float: left;
+
 }
 
 /* Clear floats */
